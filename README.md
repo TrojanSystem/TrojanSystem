@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TrojanSystem
-- 👀 I’m interested in Coding & Construction
+- 👀 I’m interested in Coding, Learnig new technologies, Coding stuff & Construction
 - 🌱 I’m currently learning more like Self teaching flutter, Python, php, C++
 - 💞️ I’m looking to collaborate on Mobile App Ideas and More Challenging App Ideas
 - 📫 How to reach me use Suretion747@gmail.com
