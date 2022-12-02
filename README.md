@@ -5,6 +5,10 @@
 - 📫 How to reach me use 📧: Suretion747@gmail.com,Twitter: @SurafelTerefe3, Telegram: @Suretion007
 
 
+<html>
+<body>
+
+
 
 <picture>
 <source 
@@ -18,13 +22,20 @@
 <img src="https://github-readme-stats.vercel.app/api?username=TrojanSystem&show_icons=true" />
 </picture>
 
+</n></n></n>
+<p>Languages 💻 🌐</p>
 
+[![My Skills](https://skills.thijs.gg/icons?i=flutter,html,css,php,python)](https://skills.thijs.gg)
+</n></n></n>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrojanSystem)](https://github.com/TrojanSystem/github-readme-stats)
-</n>
-Languages 💻 🌐
 
-[![My Skills](https://skills.thijs.gg/icons?i=flutter,html,css,php,c++,python)](https://skills.thijs.gg)
+
+
+</body>
+</html>
+
+
 <!---
 TrojanSystem/TrojanSystem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
