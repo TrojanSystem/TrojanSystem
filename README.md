@@ -35,7 +35,7 @@ I'm a Full-Stack Mobile Application Developer 💻, Civil Engineer!
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
+- React Native
 - Firebase
 - Advanced Flutter
 - Figma  
