@@ -55,19 +55,19 @@ I'm a Full-Stack Mobile Application Developer 💻, Civil Engineer!
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=S-Square System&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=TrojanSystem&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=S-Square System&show_icons=true&theme=radical"
+  srcset="https://github-readme-stats.vercel.app/api?username=TrojanSystem&show_icons=true&theme=radical"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=S-Square System&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=TrojanSystem&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Square System&layout=compact)](https://github.com/S-Square System)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrojanSystem&layout=compact)](https://github.com/TrojanSystem)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=S-Square System.S-Square System)]
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=TrojanSystem.TrojanSystem)]
 <!---
 TrojanSystem/TrojanSystem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
